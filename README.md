@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadqreshi
 - 👀 I’m passionate about building Mobile applications
-- 🌱 I have made various mmobile applications in iOS and Android as well
+- 🌱 I have made various mobile applications in both iOS and Android
 - 💞️ I’m looking for a full time opprtunity as a full time Mobile Application Developer
 - ✍️ My skills includes C/C++ , Python, Swift, mySQl, coreJava, JavaScript
 - 📫 How to reach me: ahmadqureshi40@gmail.com
