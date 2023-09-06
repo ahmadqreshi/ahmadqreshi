@@ -1,7 +1,8 @@
 
-<div style="text-align:center">
+<div align="center">
   <img src="https://github.com/ahmadqreshi/ahmadqreshi/assets/81093987/da6710bd-7682-4dd1-a198-14612b3e9f40" alt="Your Image Alt Text" />
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Ahmad Qureshi</h1>
 <h3 align="center">iOS Developer by passion and profession.</h3>
