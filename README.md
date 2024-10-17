@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmadqureshi40@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s0Cwq5ls-xO49VrMNGkUZlLMUBXbIuOd/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ax6YwIPddnItAOUrFnOGFlO3MHnSu6G5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
